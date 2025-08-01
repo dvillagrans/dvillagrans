@@ -72,8 +72,6 @@ hobbies: ["Technology", "Innovation", "Problem Solving"]
 
 <br clear="right"/>
 
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -132,10 +130,6 @@ hobbies: ["Technology", "Innovation", "Problem Solving"]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvillagrans&theme=github-compact&bg_color=F8F9FA&color=8E8E93&line=AEAEB2&point=636366&area=true&hide_border=true" width="100%"/>
 </div>
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=dvillagrans&theme=github&background=F8F9FA" width="100%"/>
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
