@@ -55,8 +55,6 @@ currently_learning: ["Advanced AI", "MLOps", "Cloud Architecture"]
 hobbies: ["Technology", "Innovation", "Problem Solving"]
 ```
 
-      </td>
-      <td width="50%" valign="top">
 
 ## 💫 Quick Facts
 
@@ -143,21 +141,23 @@ hobbies: ["Technology", "Innovation", "Problem Solving"]
       <td width="50%">
         <h3 align="center">🤖 AI/ML Projects</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvillagrans&repo=machine-learning-projects&theme=github_dark&hide_border=true&bg_color=F8F9FA&title_color=8E8E93&text_color=636366" width="100%"/>
+          <img src="https://img.shields.io/badge/Project-Machine%20Learning-8E8E93?style=for-the-badge&logo=python&logoColor=white" width="100%"/>
         </div>
         <p align="center">
           <em>🔬 Advanced machine learning models and AI solutions</em><br/>
-          <strong>Tech Stack:</strong> Python • TensorFlow • PyTorch • Scikit-learn
+          <strong>Tech Stack:</strong> Python • TensorFlow • PyTorch • Scikit-learn<br/>
+          <strong>Status:</strong> In Development
         </p>
       </td>
       <td width="50%">
         <h3 align="center">📊 Data Analytics</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvillagrans&repo=data-analytics-portfolio&theme=github_dark&hide_border=true&bg_color=F8F9FA&title_color=8E8E93&text_color=636366" width="100%"/>
+          <img src="https://img.shields.io/badge/Project-Data%20Analytics-8E8E93?style=for-the-badge&logo=tableau&logoColor=white" width="100%"/>
         </div>
         <p align="center">
           <em>📈 Comprehensive data analysis and visualization projects</em><br/>
-          <strong>Tech Stack:</strong> Python • R • Tableau • Power BI
+          <strong>Tech Stack:</strong> Python • R • Tableau • Power BI<br/>
+          <strong>Status:</strong> Portfolio Ready
         </p>
       </td>
     </tr>
