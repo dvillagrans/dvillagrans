@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=720&lines=print(%22Hola%2C+soy+Diego+%F0%9F%91%8B%22);model.fit(data%2C+passion%3DTrue);accuracy+%3D+%22always+improving%22;git+push+origin+%2F%2Finnovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=720&lines=print(%22Hola%2C+soy+Diego%22);model.fit(data%2C+passion%3DTrue);accuracy+%3D+%22always+improving%22;git+push+origin+main+--+innovation" alt="Typing SVG" />
 </div>
 
 <!-- BADGES -->
@@ -33,11 +33,11 @@
 ```python
 class Diego:
     name     = "Diego Villagran Salazar"
-    location = "México 🇲🇽"
+    location = "Mexico"
     roles    = ["Data Scientist", "ML Engineer", "AI Builder"]
     stack    = ["Python", "SQL", "Cloud", "Deep Learning"]
     passion  = "turning raw data into decisions that matter"
-    status   = "Open to interesting ideas 🚀"
+    status   = "Open to interesting ideas"
 
 me = Diego()
 print(me.passion)
@@ -51,12 +51,12 @@ print(me.passion)
 
 | | |
 |:--|:--|
-| 🔭 | Building ML systems at scale |
-| 🌱 | Deep into MLOps & LLM fine-tuning |
-| 💡 | 3+ years in Data Science |
-| 🎯 | Democratizing AI for business |
-| 📍 | México |
-| 🤝 | Open to collaborations |
+| `>>` | Building ML systems at scale |
+| `~$` | Deep into MLOps & LLM fine-tuning |
+| `v3+` | Years in Data Science |
+| `->` | Democratizing AI for business |
+| `loc` | Mexico |
+| `git` | Open to collaborations |
 
 </td>
 </tr>
@@ -112,27 +112,11 @@ print(me.passion)
 ## `$ git log --stat`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=dvillagrans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f"/>
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvillagrans&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=dvillagrans&theme=tokyonight&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6e96&currStreakLabel=ccd6f6&sideLabels=8892b0&dates=8892b0" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvillagrans&theme=tokyo-night&bg_color=0a192f&color=64ffda&line=64ffda&point=ff6e96&area=true&area_color=0a192f&hide_border=true" width="98%"/>
-</div>
-
-<br/>
-
-<!-- ───────────────────────── TROPHIES ────────────────────────── -->
-
-## `$ git achievements`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvillagrans&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 <br/>
@@ -172,7 +156,7 @@ print(me.passion)
   <sub>
     <code>while alive: learn(); build(); share()</code>
     <br/>
-    <em>⚡ Crafted with caffeine & curiosity ·
+    <em>// crafted with caffeine & curiosity ·
     <a href="https://github.com/dvillagrans">@dvillagrans</a></em>
   </sub>
 </div>
