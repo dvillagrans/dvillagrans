@@ -139,7 +139,7 @@ print(me.passion)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda)](https://linkedin.com/in/dvillagrans)
 [![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/dvillagrans)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://portfolio.dvillagrans.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda)](https://dvillagrans.dev)
 [![Email](https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:diego@example.com)
 [![X / Twitter](https://img.shields.io/badge/X-0a192f?style=for-the-badge&logo=x&logoColor=64ffda)](https://twitter.com/dvillagrans)
 
